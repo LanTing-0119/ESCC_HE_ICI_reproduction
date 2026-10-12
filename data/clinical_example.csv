@@ -1,0 +1,2 @@
+patient_id,cohort,treatment,image_included,age,sex,ECOG,TPS,best_response,PFS_time,PFS_event,OS_time,OS_event
+SYNTHETIC_EXAMPLE_001,JUPITER06,1,1,62,Male,1,10,PR,8.5,1,25.0,0

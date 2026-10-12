@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1080pt" height="648pt" viewBox="0 0 1080 648" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-12T19:43:19.369539</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.7, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 648 
+L 1080 648 
+L 1080 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 39.24 269.28 
+L 323.1 269.28 
+L 323.1 88.704 
+L 39.24 88.704 
+z
+" clip-path="url(#p4ed32f8a21)" style="fill: #e9eff4; stroke: #a2b0bb; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 381.24 269.28 
+L 665.1 269.28 
+L 665.1 88.704 
+L 381.24 88.704 
+z
+" clip-path="url(#p4ed32f8a21)" style="fill: #e9eff4; stroke: #a2b0bb; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 723.24 269.28 
+L 1037.88 269.28 
+L 1037.88 88.704 
+L 723.24 88.704 
+z
+" clip-path="url(#p4ed32f8a21)" style="fill: #e9eff4; stroke: #a2b0bb; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 381.24 466.272 
+L 665.1 466.272 
+L 665.1 313.056 
+L 381.24 313.056 
+z
+" clip-path="url(#p4ed32f8a21)" style="fill: #e9eff4; stroke: #a2b0bb; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 723.24 466.272 
+L 1037.88 466.272 
+L 1037.88 313.056 
+L 723.24 313.056 
+z
+" clip-path="url(#p4ed32f8a21)" style="fill: #e9eff4; stroke: #a2b0bb; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start" x="51.552" y="114.997969" transform="rotate(-0 51.552 114.997969)">H&amp;E representation</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'" transform="translate(51.552 146.310281)">Tissue segmentation</text>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'" transform="translate(51.552 161.971187)">20×, 256-pixel patches, 50% overlap</text>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'" transform="translate(51.552 177.632094)">UNI-v2 → L2 normalization</text>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'" transform="translate(51.552 193.293)">Patient-balanced P50 sampling</text>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'" transform="translate(51.552 208.953906)">PCA128 → K90 → centered CLR</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start" x="393.552" y="114.997969" transform="rotate(-0 393.552 114.997969)">JUPITER-06 development</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'" transform="translate(393.552 146.310281)">472 patients / 487 WSI</text>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'" transform="translate(393.552 161.971187)">CT 233 / ICI+CT 239</text>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'" transform="translate(393.552 177.632094)">PFS-trained ridge Cox (0.01)</text>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'" transform="translate(393.552 193.293)">Prognosis + treatment + interaction</text>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'" transform="translate(393.552 208.953906)">Fixed candidate and HR(z) threshold</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start" x="735.552" y="114.997969" transform="rotate(-0 735.552 114.997969)">ESCORT-1ST external evaluation</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'" transform="translate(735.552 146.310281)">482 patients / 515 WSI</text>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'" transform="translate(735.552 161.971187)">CT 240 / ICI+CT 242</text>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'" transform="translate(735.552 177.632094)">Apply frozen JUPITER model</text>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'" transform="translate(735.552 193.293)">No refitting or threshold adjustment</text>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'" transform="translate(735.552 208.953906)">No fold strata in evaluation Cox models</text>
+   </g>
+   <g id="patch_7">
+    <path d="M 328.520775 178.992 
+Q 352.1699 178.992 374.253777 178.992 
+" style="fill: none; stroke: #526170; stroke-width: 1.4; stroke-linecap: round"/>
+    <path d="M 370.253777 176.992 
+L 374.253777 178.992 
+L 370.253777 180.992 
+" style="fill: none; stroke: #526170; stroke-width: 1.4; stroke-linecap: round"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 670.520775 178.992 
+Q 694.1699 178.992 716.253777 178.992 
+" style="fill: none; stroke: #526170; stroke-width: 1.4; stroke-linecap: round"/>
+    <path d="M 712.253777 176.992 
+L 716.253777 178.992 
+L 712.253777 180.992 
+" style="fill: none; stroke: #526170; stroke-width: 1.4; stroke-linecap: round"/>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start" x="393.552" y="339.349969" transform="rotate(-0 393.552 339.349969)">Internal ten-fold evaluation</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'" transform="translate(393.552 370.662281)">Refit representation within each fold</text>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'" transform="translate(393.552 386.323188)">Refit Cox terms on training patients</text>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'" transform="translate(393.552 401.984094)">Pool out-of-fold predictions</text>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'" transform="translate(393.552 417.645)">Evaluation Cox models stratify by fold</text>
+   </g>
+   <g id="patch_9">
+    <path d="M 524.88 274.017568 
+Q 524.88 289.798954 524.88 304.015092 
+" style="fill: none; stroke: #526170; stroke-width: 1.4; stroke-linecap: round"/>
+    <path d="M 526.88 300.015092 
+L 524.88 304.015092 
+L 522.88 300.015092 
+" style="fill: none; stroke: #526170; stroke-width: 1.4; stroke-linecap: round"/>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start" x="735.552" y="339.349969" transform="rotate(-0 735.552 339.349969)">Clinical and spatial evaluation</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'" transform="translate(735.552 370.662281)">B: predicted HR(z) &lt; 1; NB: ≥ 1</text>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'" transform="translate(735.552 386.323188)">PFS / OS and treatment interactions</text>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'" transform="translate(735.552 401.984094)">RMST / fixed-time survival differences</text>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'" transform="translate(735.552 417.645)">Response, TPS and exploratory maps</text>
+   </g>
+   <g id="patch_10">
+    <path d="M 880.56 274.017568 
+Q 880.56 289.798954 880.56 304.015092 
+" style="fill: none; stroke: #526170; stroke-width: 1.4; stroke-linecap: round"/>
+    <path d="M 882.56 300.015092 
+L 880.56 304.015092 
+L 878.56 300.015092 
+" style="fill: none; stroke: #526170; stroke-width: 1.4; stroke-linecap: round"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 670.520775 389.664 
+Q 694.1699 389.664 716.253777 389.664 
+" style="fill: none; stroke: #526170; stroke-width: 1.4; stroke-linecap: round"/>
+    <path d="M 712.253777 387.664 
+L 716.253777 389.664 
+L 712.253777 391.664 
+" style="fill: none; stroke: #526170; stroke-width: 1.4; stroke-linecap: round"/>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start" x="46.08" y="337.68" transform="rotate(-0 46.08 337.68)">Public demonstration</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'" transform="translate(46.08 378.870281)">3 open TCGA ESCC slides</text>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'" transform="translate(46.08 394.531188)">1 fabricated clinical template row</text>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'" transform="translate(46.08 410.192094)">Optional independent synthetic cohort</text>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'" transform="translate(46.08 425.853)">No paper-trained model parameters</text>
+   </g>
+  </g>
+  <g id="text_13">
+   <text style="font-size: 20px; font-family: 'DejaVu Sans'; text-anchor: middle" x="540" y="34.724375" transform="rotate(-0 540 34.724375)">Figure 1 | Histology-based prediction of relative treatment benefit</text>
+  </g>
+  <g id="text_14">
+   <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #526170" x="54" y="55.08" transform="rotate(-0 54 55.08)">Study workflow and the public reproduction package</text>
+  </g>
+  <g id="text_15">
+   <text style="font-size: 10px; font-family: 'DejaVu Sans'" transform="translate(54 601.162187)">External support for treatment-benefit stratification does not establish that NB patients lack clinically meaningful benefit</text>
+   <text style="font-size: 10px; font-family: 'DejaVu Sans'" transform="translate(54 612.36)">or that ICI can be omitted. Public examples do not reproduce trial numerical results.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p4ed32f8a21">
+   <rect x="32.4" y="77.76" width="1026" height="492.48"/>
+  </clipPath>
+ </defs>
+</svg>

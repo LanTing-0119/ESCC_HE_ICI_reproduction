@@ -1,0 +1,10 @@
+patient_id,status,category,covered_area_fraction,reference_cluster,illustrative
+TCGA-V5-AASV,-1,Negative association,0.37660148347943356,15,True
+TCGA-V5-AASV,0,Not significant / not estimable,0.26466621712744437,15,True
+TCGA-V5-AASV,1,Positive association,0.35873229939312207,15,True
+TCGA-V5-A7RC,-1,Negative association,0.31006071118820466,15,True
+TCGA-V5-A7RC,0,Not significant / not estimable,0.33000867302688636,15,True
+TCGA-V5-A7RC,1,Positive association,0.3599306157849089,15,True
+TCGA-LN-A49S,-1,Negative association,0.33431442200345074,15,True
+TCGA-LN-A49S,0,Not significant / not estimable,0.2909773672992997,15,True
+TCGA-LN-A49S,1,Positive association,0.3747082106972496,15,True

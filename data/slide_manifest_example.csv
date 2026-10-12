@@ -1,0 +1,2 @@
+patient_id,slide_id,wsi_path,feature_path,n_patches
+SYNTHETIC_EXAMPLE_001,SYNTHETIC_SLIDE_001,,,0

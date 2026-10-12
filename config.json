@@ -1,0 +1,19 @@
+{
+  "mode": "template",
+  "clinical_csv": "data/clinical_example.csv",
+  "slide_manifest": "data/slide_manifest_example.csv",
+  "output_dir": "results/research",
+  "seed": 20260830,
+  "pca_dimensions": 128,
+  "clusters": 90,
+  "patient_sampling_quantile": 0.5,
+  "ridge": 0.01,
+  "folds": 10,
+  "development_cohort": "JUPITER06",
+  "external_cohort": "ESCORT1ST",
+  "enable_large_tasks": false,
+  "demo_patients_per_cohort": 360,
+  "demo_patches_per_patient": 24,
+  "wsi_patch_limit": 0,
+  "wsi_device": "cuda:0"
+}

@@ -1,0 +1,8 @@
+name: escc_he_ici
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10.18
+  - pip=25.2
+  - git
+  - libvips
